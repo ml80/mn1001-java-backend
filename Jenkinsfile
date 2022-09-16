@@ -4,7 +4,6 @@ pipeline {
   {
     steps
     {
-      {
         sh '''#!/bin/bash
         echo Build Stage
         '''
