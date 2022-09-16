@@ -6,7 +6,7 @@ pipeline {
     {
       {
         sh '''#!/bin/bash
-        echo Build stage
+        echo Build Stage
         '''
       }
     }
@@ -16,7 +16,7 @@ pipeline {
     {
       {
         sh '''#!/bin/bash
-        echo Execute stage
+        echo Execute Stage
         '''
       }
     }
@@ -26,7 +26,7 @@ pipeline {
     {
       {
         sh '''#!/bin/bash
-        echo Test stage
+        echo Test Stage
         '''
       }
     }
