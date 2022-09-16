@@ -22,7 +22,6 @@ pipeline {
   {
     steps
     {
-      {
         sh '''#!/bin/bash
         echo Test Stage
         '''
